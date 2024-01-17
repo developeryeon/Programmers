@@ -7,3 +7,5 @@ function solution(s) {
     
     return result;
 }
+
+console.log(solution("-1234"));
